@@ -13,6 +13,7 @@ public class PratiqueZiedCours5 {
 
     public static void main(String[] args) {
         System.out.print("Bonjour"+args[1]+","+args[0]);
+        System.out.print("Au revoir");
   
     }
     
